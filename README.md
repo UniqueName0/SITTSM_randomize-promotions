@@ -1,0 +1,1 @@
+# SITTSM_randomize-promotions
